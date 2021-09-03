@@ -1,1 +1,1 @@
-"Data_Science_Self_Taught" 
+Data Science : Self-Taught 
